@@ -1,0 +1,8 @@
+{
+  "appId": "com.transformher.coaching",
+  "appName": "TransformHER Coaching",
+  "webDir": ".",
+  "server": {
+    "androidScheme": "https"
+  }
+}
